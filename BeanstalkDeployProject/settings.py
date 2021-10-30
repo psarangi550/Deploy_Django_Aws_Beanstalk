@@ -25,7 +25,7 @@ SECRET_KEY = 'd-+qbt@a3!ex0kmve81%t7l4#fq$%g1_tc_)c6a9^nzlib&kco'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-elastic-route.eba-zfr2vpxn.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['django-hashed-route.eba-23ammp5c.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
